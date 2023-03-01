@@ -1,0 +1,21 @@
+.linkBonito {
+  text-decoration: underline;
+  color: green;
+  transition: ease-in-out 0.25s background;
+  cursor: pointer;
+  &:hover {
+    color: blue;
+  }
+}
+
+.contemListas {
+  display: flex;
+  div {
+    flex: 1;
+  }
+}
+
+.contemListasGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
