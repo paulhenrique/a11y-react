@@ -8,3 +8,12 @@ Esse repositório foi feito em par para apresentação de tópicos e explicaçõ
 
 
 </div>
+
+___
+
+## Autor:
+
+Paulo H. V. Cândido
+
+* Github: [@paulhenrique](https://github.com/paulhenrique)
+* Linkedin: [@paulhenriquev](https://www.linkedin.com/in/paulhenriquev/)
